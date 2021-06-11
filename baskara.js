@@ -11,7 +11,4 @@ function bhaskara(A,B,C){
     console.log(`Logo X linha 2 é igual ${bhaskara2}`)  
 }
 
-bhaskara(2,5,2)
-
-let sobra = (3+3 % 2)
-console.log(sobra);
+bhaskara(2,5,2);
