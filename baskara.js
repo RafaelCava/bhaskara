@@ -1,4 +1,4 @@
-var bhaskara = (A,B,C) => {
+let bhaskara = (A,B,C) => {
     console.log(`O problema é: A:${A} B:${B} C:${C}`);
     
     const resultDelta = Math.pow(B, 2) - 4 * A * C;
